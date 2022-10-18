@@ -1,6 +1,6 @@
 # DayPlan
 
-For this project, I decided to use the Google Maps API.__
+For this project, I decided to use the Google Maps API. <br />
 I found the coordinates of indianapolis online and searched for "local stores, shops, and destinations" within a certain radius. 
 I generated a dataframe of these places and their website, rating, price, and address.
 I outputted this dataframe into **data.csv**
